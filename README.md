@@ -17,13 +17,13 @@ Repository containing portfolio of data science projects completed by me for aca
 
 	- [3-way Sentiment Analysis for Tweets](https://github.com/ambarishmeher/data_science_portfolio/blob/master/twitter_sentiment/3-Way_Twitter_Sentiment_Analysis.ipynb): 3-way polarity (positive, negative, neutral) classification system for tweets, without using NLTK's sentiment analysis engine.
 
-	Tools: scikit-learn, Numpy, Pandas, NLTK, Tensorflow, Keras
+	Tools: scikit-learn, Numpy, Pandas, NLTK
 
 - ### Data Analysis and Visualisation
 	- __Python__
 		- [Titanic Dataset - Exploratory Analysis](https://github.com/ambarishmeher/data_science_portfolio/blob/master/EDA/Titanic_Dataset_EDA.ipynb): Exploratory Analysis of the passengers onboard RMS Titanic using Pandas and Seaborn visualisations.
 		
-	_Tools: Pandas, Numpy, Seaborn and Matplotlib_
+	Tools: Pandas, Numpy, Seaborn and Matplotlib
 
 
 - ### Micro Projects: 
