@@ -21,7 +21,7 @@ Repository containing portfolio of data science projects completed by me for aca
 
 - ### Data Analysis and Visualisation
 	- __Python__
-		- [Titanic Dataset - Exploratory Analysis](https://github.com/sajal2692/data-science-portfolio/blob/master/Titanic%20Dataset%20-%20Exploratory%20Analysis.ipynb): Exploratory Analysis of the passengers onboard RMS Titanic using Pandas and Seaborn visualisations.
+		- [Titanic Dataset - Exploratory Analysis](https://github.com/ambarishmeher/data_science_portfolio/blob/master/EDA/Titanic_Dataset_EDA.ipynb): Exploratory Analysis of the passengers onboard RMS Titanic using Pandas and Seaborn visualisations.
 		
 	_Tools: Pandas, Numpy, Seaborn and Matplotlib_
 
@@ -29,9 +29,9 @@ Repository containing portfolio of data science projects completed by me for aca
 - ### Micro Projects: 
 
 	- __Python__
-		- [ML with Logistic Regression](https://github.com/sajal2692/data-science-portfolio/blob/master/ML%20Micro%20Projects/Machine%20Learning%20with%20Logistic%20Regression.ipynb): Using Logistic Regression to predict whether an internet user clicked an ad or not.
-		- [ML with Decision Trees and Random Forests](https://github.com/sajal2692/data-science-portfolio/blob/master/ML%20Micro%20Projects/Machine%20Learning%20with%20Decision%20Trees%20and%20Random%20Forests.ipynb): Using Decision Trees and Random Forests to predict whether a lender will pay their loan back. Uses publically available data from LendingClub.com
-		- [Movie Recommendations using Recommender Systems](https://github.com/sajal2692/data-science-portfolio/blob/master/ML%20Micro%20Projects/Recommender%20Systems%20with%20Python.ipynb): A micro project to build a recommendation system that makes movie recommendations based on user review similarities. 
+		- [ML with Logistic Regression](https://github.com/ambarishmeher/data_science_portfolio/blob/master/Micro_Projects/Logistic_Regression_Model.ipynb): Using Logistic Regression to predict whether an internet user clicked an ad or not.
+		- [ML with Decision Trees and Random Forests](https://github.com/ambarishmeher/data_science_portfolio/blob/master/Micro_Projects/Model_Decision_Trees_vs_Random_Forests.ipynb): Using Decision Trees and Random Forests to predict whether a lender will pay their loan back. Uses publically available data from LendingClub.com
+		- [Movie Recommendations using Recommender Systems](https://github.com/ambarishmeher/data_science_portfolio/blob/master/Micro_Projects/Recommendation_Systems_Model.ipynb): A micro project to build a recommendation system that makes movie recommendations based on user review similarities. 
 
 You can reach me at: ambarishmeher@gmail.com
 
