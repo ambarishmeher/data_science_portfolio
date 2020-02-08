@@ -32,6 +32,11 @@ Repository containing portfolio of data science projects completed by me for aca
 		- [ML with Logistic Regression](https://github.com/ambarishmeher/data_science_portfolio/blob/master/Micro_Projects/Logistic_Regression_Model.ipynb): Using Logistic Regression to predict whether an internet user clicked an ad or not.
 		- [ML with Decision Trees and Random Forests](https://github.com/ambarishmeher/data_science_portfolio/blob/master/Micro_Projects/Model_Decision_Trees_vs_Random_Forests.ipynb): Using Decision Trees and Random Forests to predict whether a lender will pay their loan back. Uses publically available data from LendingClub.com
 		- [Movie Recommendations using Recommender Systems](https://github.com/ambarishmeher/data_science_portfolio/blob/master/Micro_Projects/Recommendation_Systems_Model.ipynb): A micro project to build a recommendation system that makes movie recommendations based on user review similarities. 
+		
+- ### Deep Learning: 
+
+	- __Tensorflow and Keras__
+		- [California Housing Price Prediction](https://github.com/ambarishmeher/data_science_portfolio/blob/master/Micro_Projects/California_housing_prices.ipynb): Using Tensorflow and  LinearRegressor interface provided by the TensorFlow Estimator API to predict the median house values.
 
 You can reach me at: ambarishmeher@gmail.com
 
